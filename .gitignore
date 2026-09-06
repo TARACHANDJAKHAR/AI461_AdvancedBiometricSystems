@@ -1,0 +1,9 @@
+# Large dataset
+Tutorial 02/data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
