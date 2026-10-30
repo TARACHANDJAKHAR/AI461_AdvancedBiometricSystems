@@ -1,0 +1,5 @@
+Condition,Mean Genuine,Mean Imposter,Separation
+Original,0.745,0.0026,0.7424
+Gaussian Noise,0.6872,0.0497,0.6375
+Salt & Pepper,0.6729,0.0161,0.6569
+Synthetic + Resize,0.6229,0.0263,0.5967
